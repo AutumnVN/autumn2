@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "autumn",
+    "name": "autumn",
+    "authors": [
+        "AutumnVN"
+    ],
+    "description": "A client-side Vintage Story mod",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": ""
+    }
+}
